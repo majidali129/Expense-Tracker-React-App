@@ -13,13 +13,13 @@ const DummyData = [
   {
     id : "fdas",
     title : "Laptop Bag",
-    amount : 1540,
+    amount : 340,
     date : new Date(2021,10,10)
   },
   {
     id : "sdaf",
     title : "Honda Civic Car",
-    amount : 200000,
+    amount : 100,
     date : new Date(2020,5,29)
   },
   {
