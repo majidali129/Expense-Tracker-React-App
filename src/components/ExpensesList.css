@@ -1,0 +1,14 @@
+.expense__alert{
+    text-align: center;
+    /* display: inline-block; */
+    width: fit-content;
+    margin: auto;
+    color: #fff;
+    background: #606060;
+    padding: 0.5em 1.3em;
+    font-weight: bold;
+    letter-spacing: 0.02em;
+    border-radius: 4px;
+    box-shadow: 0px 0px 3px #606060;
+
+}

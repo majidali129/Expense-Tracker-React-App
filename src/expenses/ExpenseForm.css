@@ -1,0 +1,52 @@
+
+.new-expense__controls{
+    width: 60%;
+    /* width: 80%; */
+    margin: 0rem auto 3em auto;
+    /* border: 3px solid rgba(255, 255, 255, 0.575); */
+    background: #606060;
+    padding: 4em 2em;
+    border-radius: 10px;
+    /* display: flex;
+    flex-wrap: wrap;
+    gap: 1rem; */
+    /* text-align: left; */
+}
+label{
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    /* color: #000000; */
+    color:#fff;
+}
+.new-expense__control{
+    margin-bottom: 1em;
+    /* border: 2px solid blue; */
+    display: inline-block;
+    width: 40%;
+    margin: 0em 2em;
+}
+.new-expense__control>input{
+    width: 100%;
+    /* width: 40rem; */
+    padding: 0.6em 1.5em;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    font-size: 2rem;
+}
+.form-submit-handler{
+    font-size: 1.8rem;
+    background-color: #010101cb;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    display: block;
+    padding: 0.8em 1em;
+    border-radius: 5px;
+    /* margin-top: 1em; */
+    margin: 1em 0em 0em 1em;
+    /* text-align: right; */
+}

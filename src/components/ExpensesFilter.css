@@ -1,0 +1,18 @@
+.expenses-filter__control{
+    /* border: 2px solid gray; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em;
+}
+.expenses-filter__control>select{
+    padding: 0.3em 1.5em;
+    border: 3px solid #606060;
+    border-radius: 4px;
+    font-weight: bolder;
+    font-size: 1.8rem;
+}
+.expenses-filter__control>label{
+    color: #fff;
+    letter-spacing: 0.03em;
+}
